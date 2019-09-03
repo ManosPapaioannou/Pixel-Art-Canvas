@@ -1,16 +1,11 @@
 # Pixel Art Maker Project
 
-## Table of Contents
+## Description
+A simple webpage that allows the user to create an empty canvas and then create pixel paintings.
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Quickstart 
+Open the index **HTML** file in your browser.
 
-## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## License
+MIT license, feel free to contribute to the project.
